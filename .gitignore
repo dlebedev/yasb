@@ -2,4 +2,3 @@
 __pycache__/
 # Ignore the src/yasb.log file
 src/yasb.log
-.idea/
